@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\A-18\\source\\repos\\WinnieThePOOh\\ejerciciosObligatorios\\",
+  "WorkspaceRootPath": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24AEA3B0-5CF8-4B46-9A53-C72D58E8365C}|ej17\\ej17.csproj|c:\\users\\a-18\\source\\repos\\winniethepooh\\ejerciciosobligatorios\\ej17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24AEA3B0-5CF8-4B46-9A53-C72D58E8365C}|ej17\\ej17.csproj|solutionrelative:ej17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E812444-6578-4D04-9862-E6F33CD911DC}|ej17\\ej17.csproj|c:\\users\\a-18\\downloads\\poo\\ejerciciosobligatorios\\ej17\\barajaespa\u00F1ola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E812444-6578-4D04-9862-E6F33CD911DC}|ej17\\ej17.csproj|solutionrelative:ej17\\barajaespa\u00F1ola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7CC0626-15DB-4B06-9899-AAC2293D35C4}|ej10\\ej10.csproj|c:\\users\\a-18\\source\\repos\\winniethepooh\\ejerciciosobligatorios\\ej10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7CC0626-15DB-4B06-9899-AAC2293D35C4}|ej10\\ej10.csproj|solutionrelative:ej10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E812444-6578-4D04-9862-E6F33CD911DC}|ej17\\ej17.csproj|c:\\users\\a-18\\downloads\\poo\\ejerciciosobligatorios\\ej17\\baraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E812444-6578-4D04-9862-E6F33CD911DC}|ej17\\ej17.csproj|solutionrelative:ej17\\baraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7CC0626-15DB-4B06-9899-AAC2293D35C4}|ej10\\ej10.csproj|C:\\Users\\A-18\\source\\repos\\WinnieThePOOh\\ejerciciosObligatorios\\ej10\\baraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E812444-6578-4D04-9862-E6F33CD911DC}|ej17\\ej17.csproj|c:\\users\\a-18\\downloads\\poo\\ejerciciosobligatorios\\ej17\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E812444-6578-4D04-9862-E6F33CD911DC}|ej17\\ej17.csproj|solutionrelative:ej17\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E812444-6578-4D04-9862-E6F33CD911DC}|ej17\\ej17.csproj|c:\\users\\a-18\\downloads\\poo\\ejerciciosobligatorios\\ej17\\barajafrancesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E812444-6578-4D04-9862-E6F33CD911DC}|ej17\\ej17.csproj|solutionrelative:ej17\\barajafrancesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CC0626-15DB-4B06-9899-AAC2293D35C4}|ej10\\ej10.csproj|C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej10\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CC0626-15DB-4B06-9899-AAC2293D35C4}|ej10\\ej10.csproj|solutionrelative:ej10\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E812444-6578-4D04-9862-E6F33CD911DC}|ej17\\ej17.csproj|c:\\users\\a-18\\downloads\\poo\\ejerciciosobligatorios\\ej17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E812444-6578-4D04-9862-E6F33CD911DC}|ej17\\ej17.csproj|solutionrelative:ej17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CC0626-15DB-4B06-9899-AAC2293D35C4}|ej10\\ej10.csproj|C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej10\\baraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7CC0626-15DB-4B06-9899-AAC2293D35C4}|ej10\\ej10.csproj|solutionrelative:ej10\\baraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7CC0626-15DB-4B06-9899-AAC2293D35C4}|ej10\\ej10.csproj|C:\\Users\\A-18\\source\\repos\\WinnieThePOOh\\ejerciciosObligatorios\\ej10\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7CC0626-15DB-4B06-9899-AAC2293D35C4}|ej10\\ej10.csproj|solutionrelative:ej10\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7CC0626-15DB-4B06-9899-AAC2293D35C4}|ej10\\ej10.csproj|C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CC0626-15DB-4B06-9899-AAC2293D35C4}|ej10\\ej10.csproj|solutionrelative:ej10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,53 +74,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\A-18\\source\\repos\\WinnieThePOOh\\ejerciciosObligatorios\\ej17\\Program.cs",
-              "RelativeDocumentMoniker": "ej17\\Program.cs",
-              "ToolTip": "C:\\Users\\A-18\\source\\repos\\WinnieThePOOh\\ejerciciosObligatorios\\ej17\\Program.cs",
-              "RelativeToolTip": "ej17\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BarajaFrancesa.cs",
+              "DocumentMoniker": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej17\\BarajaFrancesa.cs",
+              "RelativeDocumentMoniker": "ej17\\BarajaFrancesa.cs",
+              "ToolTip": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej17\\BarajaFrancesa.cs",
+              "RelativeToolTip": "ej17\\BarajaFrancesa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:29:32.964Z",
+              "WhenOpened": "2024-11-15T16:57:03.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarajaEspa\u00F1ola.cs",
+              "DocumentMoniker": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej17\\BarajaEspa\u00F1ola.cs",
+              "RelativeDocumentMoniker": "ej17\\BarajaEspa\u00F1ola.cs",
+              "ToolTip": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej17\\BarajaEspa\u00F1ola.cs",
+              "RelativeToolTip": "ej17\\BarajaEspa\u00F1ola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:56:46.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Baraja.cs",
-              "DocumentMoniker": "C:\\Users\\A-18\\source\\repos\\WinnieThePOOh\\ejerciciosObligatorios\\ej10\\Baraja.cs",
-              "RelativeDocumentMoniker": "ej10\\Baraja.cs",
-              "ToolTip": "C:\\Users\\A-18\\source\\repos\\WinnieThePOOh\\ejerciciosObligatorios\\ej10\\Baraja.cs",
-              "RelativeToolTip": "ej10\\Baraja.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwC4AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T12:47:02.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Carta.cs",
-              "DocumentMoniker": "C:\\Users\\A-18\\source\\repos\\WinnieThePOOh\\ejerciciosObligatorios\\ej10\\Carta.cs",
-              "RelativeDocumentMoniker": "ej10\\Carta.cs",
-              "ToolTip": "C:\\Users\\A-18\\source\\repos\\WinnieThePOOh\\ejerciciosObligatorios\\ej10\\Carta.cs",
-              "RelativeToolTip": "ej10\\Carta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "DocumentMoniker": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej17\\Carta.cs",
+              "RelativeDocumentMoniker": "ej17\\Carta.cs",
+              "ToolTip": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej17\\Carta.cs",
+              "RelativeToolTip": "ej17\\Carta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T12:46:45.473Z"
+              "WhenOpened": "2024-11-15T16:49:32.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Baraja.cs",
+              "DocumentMoniker": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej17\\Baraja.cs",
+              "RelativeDocumentMoniker": "ej17\\Baraja.cs",
+              "ToolTip": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej17\\Baraja.cs",
+              "RelativeToolTip": "ej17\\Baraja.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:49:09.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\A-18\\source\\repos\\WinnieThePOOh\\ejerciciosObligatorios\\ej10\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej17\\Program.cs",
+              "RelativeDocumentMoniker": "ej17\\Program.cs",
+              "ToolTip": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej17\\Program.cs",
+              "RelativeToolTip": "ej17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:45:47.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Baraja.cs",
+              "DocumentMoniker": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej10\\Baraja.cs",
+              "RelativeDocumentMoniker": "ej10\\Baraja.cs",
+              "ToolTip": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej10\\Baraja.cs",
+              "RelativeToolTip": "ej10\\Baraja.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:47:02.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej10\\Carta.cs",
+              "RelativeDocumentMoniker": "ej10\\Carta.cs",
+              "ToolTip": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej10\\Carta.cs",
+              "RelativeToolTip": "ej10\\Carta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:46:45.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej10\\Program.cs",
               "RelativeDocumentMoniker": "ej10\\Program.cs",
-              "ToolTip": "C:\\Users\\A-18\\source\\repos\\WinnieThePOOh\\ejerciciosObligatorios\\ej10\\Program.cs",
+              "ToolTip": "C:\\Users\\A-18\\Downloads\\poo\\ejerciciosObligatorios\\ej10\\Program.cs",
               "RelativeToolTip": "ej10\\Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAcwFAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T12:46:36.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T12:46:36.98Z"
             }
           ]
         }
